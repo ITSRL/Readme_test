@@ -9,3 +9,12 @@
 - 김구라
 - 해골
 - 원숭이
+
+[바다를 갈라요] (https://github.com/sonmose)
+```
+  let myName="김구라";
+  
+  function test(){
+    console.log("hello");
+  }
+```
